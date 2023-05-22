@@ -1,6 +1,6 @@
 # Node Test
 - Um pequeno crud utilizando o nodejs
-- libs utilizadas: sequelize e ORM
+- libs utilizadas: sequelize e express
 
 # Estrutura
 - server.js
